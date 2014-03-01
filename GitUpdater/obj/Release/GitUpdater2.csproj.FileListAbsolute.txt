@@ -1,0 +1,17 @@
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\bin\Release\GitUpdater2.exe.config
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\bin\Release\GitUpdater2.exe
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\bin\Release\GitUpdater2.pdb
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\bin\Release\LibGit2Sharp.dll
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\bin\Release\LibGit2Sharp.xml
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\GitUpdater2.csprojResolveAssemblyReference.cache
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\FileChooser.baml
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\MainWindow.baml
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\FileChooser.g.cs
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\MainWindow.g.cs
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\App.g.cs
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\GitUpdater2_MarkupCompile.cache
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\GitUpdater2.g.resources
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\GitUpdater2.Properties.Resources.resources
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\GitUpdater2.csproj.GenerateResource.Cache
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\GitUpdater2.exe
+C:\Users\TheRock\Documents\Visual Studio 2013\Projects\GitUpdater2\GitUpdater2\obj\Release\GitUpdater2.pdb
